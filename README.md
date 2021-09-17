@@ -2,7 +2,7 @@
 My Local Config Files
 
 Alacritty:
-          This config features the terminus font family as the deafault font and Iceberg Dark as the color scheme. It also features an opacity value of 0.6. It comes with the underline cursor by default.
+          This config features the terminus font family as the deafault font and Iceberg Dark as the color scheme. It also features an opacity value of 0.6. It comes with the underline cursor by default.(Terminus Font (TTF) must be installed for this to work or the font can be changed to one of the available fonts)
           
 Htop:
       Just the defaults with CPU Temeperature monitor enabled by default.
